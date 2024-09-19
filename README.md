@@ -10,7 +10,8 @@ Rasberry pi 4B, Open Media Vault
 Sauvegarde de mes fichier, vidéo, photo, back up, document sensible
 
 ### Diagramme de Réseau
-![Capture d'écran 2024-09-20 005109](https://github.com/user-attachments/assets/dd6238ec-14c7-416d-85f8-621fa2d84b53)
+![image](https://github.com/user-attachments/assets/640bd731-ca7a-4f63-a3a6-8e486793d6d7)
+
 
 ## Installation / Configuration
 
