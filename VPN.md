@@ -32,7 +32,8 @@
 5. **Connexion au VPN**
    - Utilisez le client OpenVPN Connect pour vous connecter au VPN.
 
-### Diagramme de Composants
+### Diagramme Conceptuel
+![image](https://github.com/user-attachments/assets/b5d55b4a-e07f-432f-bf06-9ac2ca13015c)
 
 
 ## Résultats / Conclusion
