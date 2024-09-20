@@ -1,17 +1,22 @@
-# VPN
+# VPN Personnel
 
 ## Desciption
-Présentation de on serveur domestique plus précisement NAS
+Mon pro
 
 ## Outils
-Rasberry pi 4B, Open Media Vault
+- **Système d'exploitation :** Debian (version 11)
+- **Logiciel VPN :** OpenVPN
+- **Client VPN :** OpenVPN Connect (Android, iOS, Windows, macOS, Linux)
+- **Générateur de certificats :** EasyRSA
 
 ## Fonctionnalités
-Sauvegarde de mes fichier, vidéo, photo, back up, document sensible
+- Chiffrement du trafic internet pour protéger la confidentialité des données
+- Masquage de l'adresse IP de l'utilisateur pour préserver l'anonymat
+- Accès sécurisé aux réseaux locauxaux, fichiers et services en ligne 
 
 ### Diagramme de Réseau
 
-![image](https://github.com/user-attachments/assets/2e67f062-3151-428d-98d9-838ba065c1f7)
+![image](https://github.com/user-attachments/assets/3cd7b463-f390-4416-a867-cb42941b979c)
 
 ## Installation / Configuration
 
