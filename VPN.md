@@ -23,13 +23,11 @@
 
 1. **Installation du serveur OpenVPN**
    - Installez OpenVPN sur le serveur Debian en utilisant la commande `apt-get install openvpn`.
-2. **Génération des certificats**
-   - Utilisez EasyRSA pour générer les certificats nécessaires pour le serveur et les clients VPN.
-3. **Configuration du serveur OpenVPN**
+2. **Configuration du serveur OpenVPN**
    - Modifiez le fichier de configuration du serveur OpenVPN pour définir les paramètres de sécurité, d'authentification et de routage.
-4. **Configuration des clients VPN**
+3. **Configuration des clients VPN**
    - Créez des configurations de client OpenVPN pour les différents appareils à connecter au VPN.
-5. **Connexion au VPN**
+4. **Connexion au VPN**
    - Utilisez le client OpenVPN Connect pour vous connecter au VPN.
 
 ### Diagramme Conceptuel
